@@ -1,5 +1,5 @@
 # goertz-moneymoney
-Fetches the account balance of your Görtz Vorteilskarte.
+Fetches the account balance of your [Görtz Vorteilskarte](https://vorteilskarte.baeckergoertz.de/).
 
 ## Extension Setup
 
